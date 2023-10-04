@@ -14,16 +14,16 @@ This Realtek UAD Driver AIO Pack should install and function properly on all sys
 - Uninstall previous driver using one of the following methods.
 
   1. DDU (Display Driver Uninstaller) Method:
-     - Run [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+     - Launch [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
      - Follow its instructions.
 
   2. Manual Method (For advanced users):
-     - If there is a Realtek Audio Driver entry in Settings->Apps, uninstall it and reboot.
-     - Be sure to remove any and all residues from previous Realtek audio drivers. Run [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer/releases), then remove any drivers whose *Provider* is "Realtek", "Dolby", "DTS", "Creative", "A-Volute" etc. in the "Sound, Video and Game Controllers", "Extensions", "Software Components" and "Audio Processing Objects" device categories.
-     - Reboot your system.
+     - If there is any Realtek Audio Driver entry in Settings > Apps, uninstall it and restart your system.
+     - Be sure to remove any and all residues from previous Realtek audio drivers. Launch [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer/releases), then select any drivers whose *Provider* is "Realtek", "Dolby", "DTS", "Creative", "A-Volute", "HDX" etc. in the "Sound, Video and Game Controllers", "Extensions", "Software Components" and "Audio Processing Objects" device categories. Now, check the box "Force Deletion" then click on the "Delete Driver(s)" button.
+     - Restart your system.
 
 - [Download](releases/latest) and install "Realtek UAD Driver AIO Pack".
-- Reboot your system. An Audio Control app will automatically install via Microsoft Store.
+- Restart your system. An Audio Control app will automatically install via Microsoft Store.
 
 
 ### Project motivation
