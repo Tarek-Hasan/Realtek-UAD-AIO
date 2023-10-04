@@ -46,4 +46,4 @@ Microsoft's notorious update system doesn't update driver outside of first insta
 
 
 ### Credits
-This project gathered info and used help from [pal1000](https://github.com/pal1000), [Station-Drivers](https://ftp.station-drivers.com/index.php/en-us/forum/realtek-hda-uad-drivers-firmwares-utilities/24-realtek-hda-uad-component-drivers) and Tenforums etc.
+This project gathered info and used help from [pal1000](https://github.com/pal1000), [Station-Drivers](https://ftp.station-drivers.com/index.php/en-us/forum/realtek-hda-uad-drivers-firmwares-utilities/24-realtek-hda-uad-component-drivers), [MDL](https://forums.mydigitallife.net/threads/update-realtek-high-definition-audio.72236/) and Tenforums etc.
