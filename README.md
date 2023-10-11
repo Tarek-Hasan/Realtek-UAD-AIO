@@ -39,7 +39,7 @@ Microsoft's notorious update system doesn't update driver outside of first insta
   - [Realtek SoftwareComponent](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20SoftwareComponent%202023)
   - DTS Core [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=DTS%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=DTS%20SoftwareComponent)
   - Creative [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=Creative%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=Creative%20SoftwareComponent)
-  - Nahimic [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=A-Volute%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=A-Volute%20SoftwareComponent)
+  - Nahimic [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=A-Volute%20AudioProcessingObject)
 - Following third-party software components are not included in the package. You can download and install them, if you think you need them.
   - [Intel SST](https://www.catalog.update.microsoft.com/Search.aspx?q=intel%20media%202023)
   - Waves MaxxAudio, Cirrus logic, Fortemedia, Elevoc
