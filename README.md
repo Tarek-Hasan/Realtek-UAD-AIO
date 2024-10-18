@@ -13,8 +13,8 @@ This Realtek UAD Driver AIO Pack should install and function properly on all sys
 
 - Uninstall previous driver using one of the following methods.
 
-  1. DDU (Display Driver Uninstaller) Method:
-     - Launch [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+  1. Easy Method:
+     - Launch [DDU (Display Driver Uninstaller)](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
      - Follow its instructions.
 
   2. Manual Method (For advanced users):
@@ -40,7 +40,7 @@ Microsoft's notorious update system doesn't usually update drivers. Even than, u
   - DTS Core [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=DTS%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=DTS%20SoftwareComponent)
   - Creative [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=Creative%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=Creative%20SoftwareComponent)
   - Nahimic [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=A-Volute%20AudioProcessingObject)
-- Following third-party software components are not included with the driver due large package size. But dont worry windows will auto install missing components or you can manually download and install them, if you think you need them.
+- Following third-party software components are not included with the driver due large package size. But don't worry windows will auto install missing components or you can manually download and install them, if you think you need them.
   - [Intel SST](https://www.catalog.update.microsoft.com/Search.aspx?q=intel%20media%202024)
   - Waves MaxxAudio, Cirrus logic, Fortemedia, Elevoc
 
