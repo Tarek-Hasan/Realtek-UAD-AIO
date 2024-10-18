@@ -27,23 +27,23 @@ This Realtek UAD Driver AIO Pack should install and function properly on all sys
 
 
 ### Project motivation
-Microsoft's notorious update system doesn't update driver outside of first install. Even than usually offer one or two years old driver. Newer driver updates may be listed in optional update. Also, installing newer driver through Windows update installs them on older driver without removing. This package is an effort to provide people a clean driver install.
+Microsoft's notorious update system doesn't usually update drivers. Even than, usually offers one or two years old driver. Newer driver updates may be listed in optional update. Also, upgrading driver through Windows update installs newer one on top of older driver without removing those. This package is an effort to provide people a option for clean and offline driver installation.
 
 
 ### Component Sources
 
 - The [MSI Realtek audio package](https://download.msi.com/dvr_exe/mb/realtek_audio_R.zip) that this pack is based on contains the official Realtek UAD installer.
 - Search on Microsoft Update Catalog for latest codec components.
-  - [All OEM driver](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20Media%202023)
+  - [All OEM driver](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20Media%202024)
   - [Realtek AudioProcessingObject](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20AudioProcessingObject)
-  - [Realtek SoftwareComponent](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20SoftwareComponent%202023)
+  - [Realtek SoftwareComponent](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20SoftwareComponent%202024)
   - DTS Core [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=DTS%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=DTS%20SoftwareComponent)
   - Creative [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=Creative%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=Creative%20SoftwareComponent)
   - Nahimic [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=A-Volute%20AudioProcessingObject)
-- Following third-party software components are not included in the package. You can download and install them, if you think you need them.
-  - [Intel SST](https://www.catalog.update.microsoft.com/Search.aspx?q=intel%20media%202023)
+- Following third-party software components are not included with the driver due large package size. But dont worry windows will auto install missing components or you can manually download and install them, if you think you need them.
+  - [Intel SST](https://www.catalog.update.microsoft.com/Search.aspx?q=intel%20media%202024)
   - Waves MaxxAudio, Cirrus logic, Fortemedia, Elevoc
 
 
 ### Credits
-This project gathered info and used help from [pal1000](https://github.com/pal1000), [Station-Drivers](https://ftp.station-drivers.com/index.php/en-us/forum/realtek-hda-uad-drivers-firmwares-utilities/24-realtek-hda-uad-component-drivers), [MDL](https://forums.mydigitallife.net/threads/update-realtek-high-definition-audio.72236/) and Tenforums etc.
+This project gathered info and used help from [pal1000](https://github.com/pal1000), [Station-Drivers](https://station-drivers.com/index.php/forum/realtek-hda-uad-drivers-firmwares-utilities/24-realtek-hda-uad-component-drivers), [MDL](https://forums.mydigitallife.net/threads/update-realtek-high-definition-audio.72236/) and Tenforums etc.
