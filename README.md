@@ -34,14 +34,14 @@ Microsoft's notorious update system doesn't usually update drivers. Even than, u
 
 - The [MSI Realtek audio package](https://download.msi.com/dvr_exe/mb/realtek_audio_R.zip) that this pack is based on; contains the official Realtek UAD installer.
 - Search on Microsoft Update Catalog for latest codec components.
-  - [All OEM driver](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20Media%202024)
+  - [All OEM driver](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20Media%202025)
   - [Realtek AudioProcessingObject](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20AudioProcessingObject)
-  - [Realtek SoftwareComponent](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20SoftwareComponent%202024)
+  - [Realtek SoftwareComponent](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20SoftwareComponent%202025)
   - DTS Core [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=DTS%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=DTS%20SoftwareComponent)
   - Creative [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=Creative%20AudioProcessingObject)/[SWC](https://www.catalog.update.microsoft.com/Search.aspx?q=Creative%20SoftwareComponent)
   - Nahimic [APO](https://www.catalog.update.microsoft.com/Search.aspx?q=A-Volute%20AudioProcessingObject)
 - Following third-party software components are not included with the driver due large package size. But don't worry windows will auto install missing components or you can manually download and install them, if you think you need them.
-  - [Intel SST](https://www.catalog.update.microsoft.com/Search.aspx?q=intel%20media%202024)
+  - [Intel SST](https://www.catalog.update.microsoft.com/Search.aspx?q=intel%20media%202025)
   - Waves MaxxAudio, Cirrus logic, Fortemedia, Elevoc
 
 
