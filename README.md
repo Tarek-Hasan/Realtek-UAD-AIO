@@ -3,9 +3,9 @@ This package is meant to be all in one installer of Realtek Universal Audio Driv
 
 
 ### Compatibility
-This Realtek UAD Driver AIO Pack should install and function properly on all systems with Realtek audio controller released in 2018 or later. For Realtek Legacy HDA FF00 drivers, use this mod - [Realtek Generic UAD](https://github.com/pal1000/Realtek-UAD-generic). If not sure about your audio IC generation, try to install this driver package first. This installer will let you know if a device is not supported.
+This Realtek UAD Driver AIO Pack should install and function properly on all systems with Realtek audio controller released in 2018 or later. For Realtek Legacy HDA FF00 drivers, use this mod - [Realtek Generic UAD](https://github.com/pal1000/Realtek-UAD-generic). If not sure about your audio IC generation, try to install latest driver package from this repo first. This installer will let you know if a device is not supported.
 
-[Note: If Realtek Generic UAD used with devices relying on special audio enhancements; functionality and feature set available may be limited.]
+*[Note: If Realtek Generic UAD used with devices relying on special audio enhancements - functionality and feature set available may be limited. For ASIO support try using universal ASIO driver like [Steinberg built-in ASIO Driver](https://helpcenter.steinberg.de/hc/en-us/articles/17863730844946-Steinberg-built-in-ASIO-Driver-information-download)]*
 
 
 ### Installation
@@ -27,12 +27,12 @@ This Realtek UAD Driver AIO Pack should install and function properly on all sys
 
 
 ### Project motivation
-Microsoft's notorious update system doesn't usually update drivers. Even than, usually offers one or two years old driver. Newer driver updates may be listed in optional update. Also, upgrading driver through Windows update installs newer one on top of older driver without removing those. This package is an effort to provide people a option for clean and offline driver installation.
+Microsoft's notorious update system doesn't usually update drivers. Even than, usually offers one or two years old driver. Newer driver updates may be listed in optional update. Also, upgrading driver through Windows update installs newer one on top of older driver without removing the older ones. This package is an effort to provide people a option for clean and offline driver installation.
 
 
 ### Component Sources
 
-- The [MSI Realtek audio package](https://download.msi.com/dvr_exe/mb/realtek_audio_R.zip) that this pack is based on contains the official Realtek UAD installer.
+- The [MSI Realtek audio package](https://download.msi.com/dvr_exe/mb/realtek_audio_R.zip) that this pack is based on; contains the official Realtek UAD installer.
 - Search on Microsoft Update Catalog for latest codec components.
   - [All OEM driver](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20Media%202024)
   - [Realtek AudioProcessingObject](https://www.catalog.update.microsoft.com/Search.aspx?q=Realtek%20AudioProcessingObject)
