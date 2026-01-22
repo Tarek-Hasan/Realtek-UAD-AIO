@@ -5,7 +5,11 @@ This package is meant to be all in one installer of Realtek Universal Audio Driv
 ### Compatibility
 This Realtek UAD Driver AIO Pack should install and function properly on all systems with Realtek audio controller released in 2018 or later. For Realtek Legacy HDA FF00 drivers, use this mod - [Realtek Generic UAD](https://github.com/pal1000/Realtek-UAD-generic). If not sure about your audio IC generation, try to install latest driver package from this repo first. This installer will let you know if a device is not supported.
 
-*[Note: If Realtek Generic UAD used with devices relying on special audio enhancements - functionality and feature set available may be limited. For ASIO support try using universal ASIO driver like [Steinberg built-in ASIO Driver](https://helpcenter.steinberg.de/hc/en-us/articles/17863730844946-Steinberg-built-in-ASIO-Driver-information-download)]*
+*Notes:*
+
+*- If Realtek Generic UAD used with devices relying on special audio enhancements - functionality and feature set available may be limited. For ASIO support try using universal ASIO driver like [Steinberg built-in ASIO Driver](https://helpcenter.steinberg.de/hc/en-us/articles/17863730844946-Steinberg-built-in-ASIO-Driver-information-download).*
+
+*- If you experience any problems with Bluetooth devices, try updating Bluetooth driver first.*
 
 
 ### Installation
@@ -46,4 +50,4 @@ Microsoft's notorious update system doesn't usually update drivers. Even than, u
 
 
 ### Credits
-This project gathered info and used help from [pal1000](https://github.com/pal1000), [Station-Drivers](https://station-drivers.com/index.php/forum/realtek-hda-uad-drivers-firmwares-utilities/24-realtek-hda-uad-component-drivers), [MDL](https://forums.mydigitallife.net/threads/update-realtek-high-definition-audio.72236/) and Tenforums etc.
+This project gathered info and used help from [pal1000](https://github.com/pal1000), [Station-Drivers](https://station-drivers.com/index.php/forum/realtek-hda-uad-drivers-firmwares-utilities/24-realtek-hda-uad-component-drivers), [MDL](https://forums.mydigitallife.net/threads/update-realtek-high-definition-audio.72236/) and [Tenforums](https://www.tenforums.com/sound-audio/182081-latest-realtek-hd-audio-driver-version-3-a.html) etc.
